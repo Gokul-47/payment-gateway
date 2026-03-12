@@ -4,6 +4,12 @@
    ======================================== */
 
 /* CSS Variables */
+
+html, body{
+max-width:100%;
+overflow-x:hidden;
+}
+
 :root {
     --primary-color: #234E70;
     --secondary-color: #4CAF50;
