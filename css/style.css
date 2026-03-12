@@ -1775,10 +1775,12 @@ section {
     .about-image img{
         width: 200px;
         height: 200px;
+        border-radius: 10px;
     }
     .dashboard-mockup img{
         width: 200px;
         height: 200px;
+        border-radius: 10px;
     }
 }
 
