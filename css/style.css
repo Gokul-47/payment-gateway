@@ -1772,6 +1772,14 @@ section {
     .error-actions {
         flex-direction: column;
     }
+    .about-image img{
+        width: 200px;
+        height: 200px;
+    }
+    .dashboard-mockup img{
+        width: 200px;
+        height: 200px;
+    }
 }
 
 /* 481px - 768px (Tablets) */
