@@ -1380,7 +1380,7 @@ section {
    ERROR PAGE (404)
    ======================================== */
 .error-page {
-    min-height: 100vh;
+    max-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1391,6 +1391,7 @@ section {
     text-align: center;
     color: white;
     padding: 2rem;
+    margin-top: 20px;
 }
 
 .error-number {
@@ -1403,6 +1404,8 @@ section {
 .error-title {
     font-size: 2.5rem;
     margin-bottom: 1rem;
+    margin-top: -8rem;
+
 }
 
 .error-message {
